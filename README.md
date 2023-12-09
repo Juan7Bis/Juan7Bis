@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Juan7Bis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas Vindas ao meu perfil 💚
 
-<!---
-Juan7Bis/Juan7Bis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://tenor.com/pt-BR/view/xrd-exrd-crypto-btc-eth-gif-23801255
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em **Front-End**
+- E irei utilizar esse espaço para compartilhar meus projetos desenvolvidos
+
+ ### Contatos
+📫 **juan.natal@escola.pr.gov.br**
+
+📞 **43 99683-8950**
+
+![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
