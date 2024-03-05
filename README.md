@@ -1,6 +1,6 @@
 ### Boas Vindas ao meu perfil 🍃
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando no **Colégio Cívico-Militar José Pavan**
 - Estou me desenvolvendo em **Front-End**
 - E irei utilizar esse espaço para compartilhar meus projetos desenvolvidos
 
